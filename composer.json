@@ -1,5 +1,5 @@
 {
-    "name": "codelayer/laravel-vat-validator",
+    "name": "huboo-technologies/laravel-vat-validator-fork",
     "description": "Validate the format of EU vat numbers.",
     "keywords": [
         "laravel",
