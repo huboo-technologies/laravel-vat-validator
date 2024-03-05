@@ -7,7 +7,7 @@ This package can be used to validate EU VAT identification numbers such as `DE12
 You can install the package using composer:
 
 ```bash
-composer require codelayer/laravel-vat-validator
+composer require huboo-technologies/laravel-vat-validator-fork
 ```
 
 ### Translations
